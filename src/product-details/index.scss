@@ -1,0 +1,21 @@
+.product-details {
+  margin-left: 80px;
+
+  .product-name {
+    font-family: cursive;
+    font-size: 30px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    font-weight: bold;
+  }
+
+  p {
+    color: darkgray;
+    font-size: 18px;
+  }
+
+  .price {
+    padding-top: 5px;
+    font-weight: bold;
+  }
+}
